@@ -1,6 +1,7 @@
 
 import './App.css'
-import { AppiCoffeeCarruselBasic } from './assets/components/AppiCoffeeCarruselBasic'
+//import { ApiCoffeeCarruselBasic } from './components/ApiCoffeeCarruselBasic'
+import { AppiCoffeeCarruselBasic } from './assets/components/AppiCoffeeCarruselBasic';
 
 function App() {
 
